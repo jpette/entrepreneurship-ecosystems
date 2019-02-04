@@ -1,5 +1,7 @@
-# Entrepreneurship-Ecosystems
-An Exploratory Data Analysis (EDA) in Python using joined and cleaned data from three datasets
+# Entrepreneurship Ecosystems
+Authors: Mary Boardman, Shirley Deng, John Pette
+
+An Exploratory Data Analysis (EDA) in Python using joined and cleaned data from three datasets.
 
 This repository contains the following:
 - A CSV file containing the combined dataset 
